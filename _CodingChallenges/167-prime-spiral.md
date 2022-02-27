@@ -96,3 +96,9 @@ contributions:
 ---
 
 Why do prime numbers show up as diagonals in a spiral? In this video, I create a visualization in JavaScript (p5.js) of the Ulam Spiral (aka Prime Spiral) named for Polish Mathematician Stanislav Ulan.
+
+- title: "Ulam spiral Quilt (with custom cross shape)"
+  author:
+    name: Kathy McGuiness
+     url: "https://editor.p5js.org/kfahn/full/Zy1M1c7eH"
+  source: "https://editor.p5js.org/kfahn/sketches/Zy1M1c7eH"
